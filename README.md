@@ -1,5 +1,6 @@
 # example-groovy-gradle-bug
-Showing an example of a Groovy - Gradle bug.
+Showing an example of this Groovy - Gradle bug:
+https://github.com/gradle/gradle/issues/2245
 
 To grab this project and replicate this bug, please run these commands:
 ```
